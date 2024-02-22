@@ -1,0 +1,35 @@
+*
+{
+    margin: 20px;
+}
+
+body
+{
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+
+h1
+{
+    padding: 10px;
+    border: 15px;
+    border-style: dotted;
+    color: hotpink;
+    text-decoration: underline;
+    text-align: justify;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    text-align: justify;
+    background-color:coral ;
+}
+img
+{
+    border-radius: 40%;
+    width: 40%;
+    height: 250px;
+}
+
